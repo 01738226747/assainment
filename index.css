@@ -10,7 +10,7 @@ justify-content: space-around;
 width: 1440px;
 height: 652px;
 border: none;
-background-image: url(B10A1-Challenge-Begins/assets/Hero-bg.png);
+background-image: url(./images/assets/Hero-bg.png);
 background-repeat: no-repeat;
 background-size: cover;
 
@@ -152,7 +152,7 @@ margin: 0 auto;
    width: 1140px;
    height: 250px;
   margin: 0 auto;
-   background-image: url(B10A1-Challenge-Begins/assets/handshake.jpg);
+   background-image: url(./images/assets/handshake.jpg);
    background-repeat:no-repeat;
    background-size:cover;
    background-position:center;

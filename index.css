@@ -30,3 +30,158 @@ background-color: #0D1321;
 color: #FFFFFF;
 padding: 5px;
 }
+.ch{
+   height: 100px;
+   width: 100px;
+   border: 2px solid green;
+   
+}
+.chh{
+   height: 100px;
+   width: 100px;
+   border: 2px solid violet;
+   
+
+   color: #FFFFFF;
+   background-color: #0D1321;
+   font-size: 20px;
+   border-radius: 5px;
+}
+.main-section{
+   margin-top: 50px;
+  
+   width: 1440px;
+   text-align: center;
+}
+.main01div{
+   width: 1000px;
+margin: 0 auto;
+
+   
+}
+.btn2{
+   padding: 5px 10px 5px 10px;
+   color:#0D1321;
+   
+   background-color: white;
+   font-size: 10px;
+   
+}
+
+.main1div{
+   display: flex;
+   justify-content: space-between;
+height: 250px;
+width: 500px;
+
+margin: 0 auto;
+}
+
+.main2div{
+   display: flex;
+   justify-content: space-between;
+height: 250px;
+width: 500px;
+margin: 0 auto;
+}
+.main3div{
+   display: flex;
+   justify-content: space-between;
+height: 250px;
+width: 500px;
+margin: 0 auto;}
+.section2{
+   width: 1440px;
+   text-align: center;
+}
+.video{
+margin: 0 auto;
+}
+.mc{
+   text-align: center;
+   width: 1440px;
+}
+.section3{
+   display: flex;
+  justify-content: space-evenly;
+   width: 800px;
+   height: 250px;
+   
+   margin-left: 300px;
+}
+.html{
+   height: 220px;
+   width: 200px;
+   
+   padding: 10px;
+   background-color: #FDA7DF;
+   border-radius: 5px;
+  
+  
+}
+.css{
+   height: 220px;
+   width: 200px;
+  
+   padding: 10px;
+   background-color: #d2dae2;
+   border-radius: 5px;
+   
+  
+  
+}
+
+.java{
+   height: 220px;
+   width: 200px;
+  
+   padding: 10px;
+   background-color: #feca57;
+   border-radius: 5px;
+  
+  
+}
+.btn3{
+   
+   color:#0D1321;
+   
+   background-color: white;
+  
+}
+.footer{
+   width: 1140px;
+   height: 250px;
+  margin: 0 auto;
+   background-image: url(B10A1-Challenge-Begins/assets/handshake.jpg);
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-position:center;
+   text-align: center;
+   border-radius: 5px;
+   
+   
+}
+.text{
+border-radius: 5px;
+   padding: 5px;
+   width: 200px;
+   
+}
+.submit{
+   border-radius: 5px;
+      padding: 5px;
+      color: #0D1321;
+   }
+   .footer2{
+      display: flex;
+      width: 1140px;
+      justify-content: space-between;
+     
+      margin: 0 auto;
+      margin-top: 30px;
+   }
+   .subfooter2{
+      display: flex;
+      gap: 10px;
+   }
+   
